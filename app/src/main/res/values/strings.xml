@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Boxpro Logistics</string>
+    <string name="title_activity_drivermapactivity">Map</string>
+    <string name="title_activity_custmoermapactivity">Map</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map3">Map</string>
+    <string name="title_activity_map4">Map</string>
+    <string name="title_activity_map5">Map</string>
+    <string name="title_activity_map6">Map</string>
+    <string name="title_activity_map2">Map</string>
+    <string name="title_activity_maps5">Map</string>
+    <string name="title_activity_maps6">Map</string>
+    <string name="title_activity_maps7">Map</string>
+    <string name="title_activity_maps8">Map</string>
+    <string name="title_activity_mpas7">Map</string>
+    <string name="title_activity_mpas8">Map</string>
+    <string-array name="sprinner01">
+        <item>Select type of vehicle </item>
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Industrial Vehicle</item>
+    </string-array>
+    <string-array name="sprinner02">
+        <item>Select the service you want</item>
+        <item>Pickup</item>
+        <item>Mini Truck</item>
+        <item>Cargo Truck</item>
+        <item>Dumper Truck</item>
+    </string-array>
+    <string-array name="sprinner03">
+        <item>Select the type of delivery</item>
+        <item>Same Day</item>
+        <item>Over Night</item>
+        <item>Over Land</item>
+        <item>Cash On Delivery</item>
+    </string-array>
+</resources>
